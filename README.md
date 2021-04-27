@@ -9,14 +9,15 @@ Authors:
 
 # 2. Experimental Comparison of Numerical Algorithms:
 * Three interpolation methods were chosen:
+    * Linear Least Squares Approximation
     * Piecewise Linear Interpolation
     * Cubic Spline Interpolation
-    * Linear Least Squares Approximation
+
 
 # 3. Presentation of Results:
 ![Linear Least Squares Approximation](https://i.gyazo.com/3e888a687965a0b201bc4916635995b8.png)
 ![Piecewise Linear Interpolation](https://i.gyazo.com/bbe3f0743b4891663156a25d7bbda1d6.png)
-![Cubic Spline Interpolation](https://i.gyazo.com/b323be64fa1b7a626c00daaa10cc6689.png)
+![Cubic Spline Interpolation](https://i.gyazo.com/f4094171e305b86c91c9c6dff28a4b80.png)
 
 ***
 
