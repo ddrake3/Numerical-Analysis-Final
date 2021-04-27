@@ -8,16 +8,17 @@ Authors:
   http://jse.amstat.org/datasets/baseball.dat.txt
 
 # 2. Experimental Comparison of Numerical Algorithms:
-* Two interpolation methods were chosen:
+* Three interpolation methods were chosen:
+    * Linear Least Squares Approximation
     * Piecewise Linear Interpolation
     * Cubic Spline Interpolation
 
+
 # 3. Presentation of Results:
-![Piecewise Linear Interpolation](https://i.gyazo.com/bbe3f0743b4891663156a25d7bbda1d6.png)
-![Cubic Spline Interpolation](https://i.gyazo.com/beeda2aa1a16b641dfbb41e1f30fd731.png)
+![Linear Least Squares Approximation](https://i.gyazo.com/3e888a687965a0b201bc4916635995b8.png)
+![Piecewise Linear Interpolation](https://i.gyazo.com/d727a257ce290411ebe3f809e144c84b.png)
+![Cubic Spline Interpolation](https://i.gyazo.com/f4094171e305b86c91c9c6dff28a4b80.png)
 
 ***
 
 # External Libraries Used:
-* Smile, also known as Statistical Machine Intelligence and Learning Engine, provided methods to accomplish interpolation of our data.
-* Source: http://haifengl.github.io/interpolation.html
