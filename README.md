@@ -16,7 +16,7 @@ Authors:
 # 3. Presentation of Results:
 ![Linear Least Squares Approximation](https://i.gyazo.com/3e888a687965a0b201bc4916635995b8.png)
 ![Piecewise Linear Interpolation](https://i.gyazo.com/bbe3f0743b4891663156a25d7bbda1d6.png)
-![Cubic Spline Interpolation](https://i.gyazo.com/5b6fd52a03b63659a6a874fb8935fab3.png)
+![Cubic Spline Interpolation](https://i.gyazo.com/b323be64fa1b7a626c00daaa10cc6689.png)
 
 ***
 
