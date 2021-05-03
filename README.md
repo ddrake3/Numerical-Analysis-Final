@@ -21,4 +21,9 @@ Authors:
 
 ***
 
-# External Libraries Used:
+# Compiling & Executing
+* Compile: % mcc -m <algorithm_name>.m -o <algorithm_name>
+* Run: 
+    * % module load matlab/2016b
+    * % module load gcc/4.7.3
+    * ./run_<algorithm_name>.sh $MATLAB
